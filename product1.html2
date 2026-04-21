@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+<meta charset="UTF-8">
+<title>تفاصيل المنتج</title>
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<header>📦 تفاصيل المنتج</header>
+
+<div style="padding:20px;text-align:center;">
+
+  <img src="https://ae01.alicdn.com/kf/Sb6b0e5f6f6d14c3fa2b5c9d0d2f8b7d3X.jpg" style="width:250px;">
+
+  <h2>منتج مميز</h2>
+  <p>أفضل منتج بسعر رائع وجودة عالية</p>
+
+  <a class="btn" href="https://s.click.aliexpress.com/e/_c4D9gnMz" target="_blank">
+    🛒 اشتري الآن
+  </a>
+
+</div>
+
+</body>
+</html>
